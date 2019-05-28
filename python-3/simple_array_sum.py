@@ -12,7 +12,6 @@ def simpleArraySum(ar):
     #
     # Write your code here.
     #
-    sum = 0
     return reduce(lambda n, m: n + m, ar)
 
 if __name__ == '__main__':
