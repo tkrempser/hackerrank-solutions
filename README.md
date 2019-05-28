@@ -1,2 +1,2 @@
 # hackerrank-solutions
-Solutions to HackerRank problems.
+Solutions for HackerRank problems.
